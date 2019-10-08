@@ -1,0 +1,4411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RIT">
+    <display-name lang="pt">RIT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FULL HD">
+    <display-name lang="pt">AMC FULL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NHK World Premium">
+    <display-name lang="pt">NHK World Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20191008000000 -0300" stop="20191008012500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Insônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008012500 -0300" stop="20191008013700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008013700 -0300" stop="20191008015400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008015400 -0300" stop="20191008020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Bom Repórter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008020000 -0300" stop="20191008024000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008024000 -0300" stop="20191008030500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008030500 -0300" stop="20191008042300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Porto Alegre</title>
+    <sub-title lang="pt">Meu Canto no Mundo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008042300 -0300" stop="20191008042800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: David Está Morto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008042800 -0300" stop="20191008060400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Nove Crônicas Para Um Coração Aos Berros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060400 -0300" stop="20191008063400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008063400 -0300" stop="20191008064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008064500 -0300" stop="20191008075800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Moradas e Memórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008075800 -0300" stop="20191008081400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Final da Linha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008081400 -0300" stop="20191008083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A História Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008083000 -0300" stop="20191008090000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cinema em Transe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008090000 -0300" stop="20191008093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cine Barato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008093000 -0300" stop="20191008100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Inspira.mov</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008100000 -0300" stop="20191008114000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Boca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008114000 -0300" stop="20191008120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Contrato Com A Sorte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008123800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008123800 -0300" stop="20191008131500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008131500 -0300" stop="20191008135400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008135400 -0300" stop="20191008140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Terminal 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008140000 -0300" stop="20191008150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008150000 -0300" stop="20191008184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008184500 -0300" stop="20191008202500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Juventude 100 Anos de Papada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008202500 -0300" stop="20191008203000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Terminal 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008203000 -0300" stop="20191008210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Hackers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008210000 -0300" stop="20191008213000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Na Rede.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008213000 -0300" stop="20191008220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Geekland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008220000 -0300" stop="20191008234000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Nove Crônicas Para Um Coração Aos Berros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008234000 -0300" stop="20191009000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009013700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">A Vizinhança do Tigre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009013700 -0300" stop="20191009020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Segredo Da Família Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009020000 -0300" stop="20191009030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009030000 -0300" stop="20191009043300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Quem Se Importa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009043300 -0300" stop="20191009061300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Boca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009061300 -0300" stop="20191009062800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Abismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009062800 -0300" stop="20191009064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009064500 -0300" stop="20191009080000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: #nolhodarua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009080000 -0300" stop="20191009083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009083000 -0300" stop="20191009090000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Hackers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009090000 -0300" stop="20191009093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Na Rede.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009093000 -0300" stop="20191009100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Geekland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009100000 -0300" stop="20191009113900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Dolores</title>
+    <sub-title lang="pt">Uma Mulher, Dois Amores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009113900 -0300" stop="20191009120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009133300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Do Lado de Fora</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009133300 -0300" stop="20191009134900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Tempo Que Leva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009134900 -0300" stop="20191009135500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Bom Repórter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009135500 -0300" stop="20191009140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: David Está Morto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009140000 -0300" stop="20191009143000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Guerreiros da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009143000 -0300" stop="20191009150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Nos Campos do Holocausto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009150000 -0300" stop="20191009184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009184500 -0300" stop="20191009200000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Caxias do Sul</title>
+    <sub-title lang="pt">Tradição e Inovação de um Povo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009200000 -0300" stop="20191009210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009210000 -0300" stop="20191009213000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Taxitramas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009213000 -0300" stop="20191009220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Série de Ficção: Ala Leste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009220000 -0300" stop="20191009234800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Menos Que Nada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009234800 -0300" stop="20191010000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010011900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Elon Não Acredita Na Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010011900 -0300" stop="20191010012600 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Joana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010012600 -0300" stop="20191010014400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Luna 13</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010014400 -0300" stop="20191010020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A História Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010020000 -0300" stop="20191010030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010030000 -0300" stop="20191010041300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Moradas e Memórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010041300 -0300" stop="20191010043000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Triquetrique</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010043000 -0300" stop="20191010060900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Dolores</title>
+    <sub-title lang="pt">Uma Mulher, Dois Amores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060900 -0300" stop="20191010062700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: O Corpo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010062700 -0300" stop="20191010064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010064500 -0300" stop="20191010080200 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Porto Alegre</title>
+    <sub-title lang="pt">Meu Canto no Mundo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010080200 -0300" stop="20191010082000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Final da Linha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010082000 -0300" stop="20191010083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010083000 -0300" stop="20191010090000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Nos Campos do Holocausto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010090000 -0300" stop="20191010093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Taxitramas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010093000 -0300" stop="20191010100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Série de Ficção: Ala Leste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010100000 -0300" stop="20191010113600 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Nove Crônicas Para Um Coração Aos Berros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010113600 -0300" stop="20191010120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Revertere Ad Locum Tuum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010123000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010123000 -0300" stop="20191010130000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010130000 -0300" stop="20191010133000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010133000 -0300" stop="20191010140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010140000 -0300" stop="20191010143000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cine Barato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010143000 -0300" stop="20191010150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Na Rede.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010150000 -0300" stop="20191010184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010184500 -0300" stop="20191010200400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Todos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010200400 -0300" stop="20191010202000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010202000 -0300" stop="20191010202700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Joana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010202700 -0300" stop="20191010205500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Luneta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010205500 -0300" stop="20191010210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010210000 -0300" stop="20191010213000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Proibido para Maiores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010213000 -0300" stop="20191010220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Pela Fechadura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010220000 -0300" stop="20191010232100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010232100 -0300" stop="20191010234300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Morte Cega</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010234300 -0300" stop="20191011000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Requília</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011014000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Boca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011014000 -0300" stop="20191011020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Os Filmes Que Não Fiz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011020000 -0300" stop="20191011030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011030000 -0300" stop="20191011042000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Porto Alegre</title>
+    <sub-title lang="pt">Meu Canto no Mundo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011042000 -0300" stop="20191011043000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011043000 -0300" stop="20191011054800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Elon Não Acredita Na Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011054800 -0300" stop="20191011060500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Requília</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060500 -0300" stop="20191011063500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011063500 -0300" stop="20191011064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011064500 -0300" stop="20191011082500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.doc: Juventude 100 Anos de Papada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011082500 -0300" stop="20191011084500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011084500 -0300" stop="20191011090000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Triquetrique</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011090000 -0300" stop="20191011093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Proibido para Maiores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011093000 -0300" stop="20191011100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Pela Fechadura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011100000 -0300" stop="20191011113800 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Dolores</title>
+    <sub-title lang="pt">Uma Mulher, Dois Amores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011113800 -0300" stop="20191011120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Morte Cega</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Menos Que Nada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011140000 -0300" stop="20191011143000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Taxitramas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011143000 -0300" stop="20191011150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Série de Ficção: Ala Leste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011150000 -0300" stop="20191011184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011184500 -0300" stop="20191011200000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Moradas e Memórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011200000 -0300" stop="20191011200700 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011200700 -0300" stop="20191011203000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Os Filmes Que Não Fiz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011203000 -0300" stop="20191011210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011210000 -0300" stop="20191011220000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Gamebros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011220000 -0300" stop="20191011233600 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Nove Crônicas Para Um Coração Aos Berros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011233600 -0300" stop="20191012000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Revertere Ad Locum Tuum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012020000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Menos Que Nada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012020000 -0300" stop="20191012021500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A História Deles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012021500 -0300" stop="20191012023000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012023000 -0300" stop="20191012030000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Série de Ficção: Ala Leste</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012030000 -0300" stop="20191012043300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Quem Se Importa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012043300 -0300" stop="20191012055400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012055400 -0300" stop="20191012062400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012062400 -0300" stop="20191012064500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012064500 -0300" stop="20191012080000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: Moradas e Memórias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012080000 -0300" stop="20191012083000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012083000 -0300" stop="20191012093000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Gamebros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012093000 -0300" stop="20191012100000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Necrópolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012100000 -0300" stop="20191012113300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Do Lado de Fora</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012113300 -0300" stop="20191012114300 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012114300 -0300" stop="20191012120000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012123000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Cinema em Transe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012123000 -0300" stop="20191012132000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012132000 -0300" stop="20191012133000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Menteação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012133000 -0300" stop="20191012140000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Na Rede.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012140000 -0300" stop="20191012143000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Geekland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012143000 -0300" stop="20191012150000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Inspira.mov</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012150000 -0300" stop="20191012184500 -0300" channel="Prime Box Brazil">
+    <title lang="pt">1001 Noites</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012184500 -0300" stop="20191012200000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Prime.Doc: #nolhodarua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012200000 -0300" stop="20191012210000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Investigação Criminal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012210000 -0300" stop="20191012213900 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Chuteira Preta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012213900 -0300" stop="20191012214400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012214400 -0300" stop="20191012220100 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Requília</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012220100 -0300" stop="20191012232600 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Sessão Prime Box: Insônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012232600 -0300" stop="20191012234400 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Curta In Box: Luna 13</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012234400 -0300" stop="20191013000000 -0300" channel="Prime Box Brazil">
+    <title lang="pt">Radialistas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008002000 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008002000 -0300" stop="20191008004500 -0300" channel="NHK World Premium">
+    <title lang="pt">Bento Expo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008004500 -0300" stop="20191008010000 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008010000 -0300" stop="20191008012500 -0300" channel="NHK World Premium">
+    <title lang="pt">Hobbies Sparkle Your Life!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008012500 -0300" stop="20191008015000 -0300" channel="NHK World Premium">
+    <title lang="pt">Tanka Poetry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008015000 -0300" stop="20191008020000 -0300" channel="NHK World Premium">
+    <title lang="pt">Practical English in Hospitality Scenes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008020000 -0300" stop="20191008022500 -0300" channel="NHK World Premium">
+    <title lang="pt">Lets Send Out English Sns Messages To The World!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008022500 -0300" stop="20191008025500 -0300" channel="NHK World Premium">
+    <title lang="pt">J-Melo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008025500 -0300" stop="20191008030000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Music Album</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008030000 -0300" stop="20191008031000 -0300" channel="NHK World Premium">
+    <title lang="pt">Rural Japan Satoyama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008031000 -0300" stop="20191008031500 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008031500 -0300" stop="20191008032000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008032000 -0300" stop="20191008034900 -0300" channel="NHK World Premium">
+    <title lang="pt">Child-rearing Hints &amp; Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008034900 -0300" stop="20191008035000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008035000 -0300" stop="20191008044500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008044500 -0300" stop="20191008045000 -0300" channel="NHK World Premium">
+    <title lang="pt">Pythagoraswitch Mini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008045000 -0300" stop="20191008050100 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008050100 -0300" stop="20191008051100 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun with Japanese</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008051100 -0300" stop="20191008052100 -0300" channel="NHK World Premium">
+    <title lang="pt">Let's Enjoy English With Orton</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008052100 -0300" stop="20191008053600 -0300" channel="NHK World Premium">
+    <title lang="pt">Peek-a-boo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008053600 -0300" stop="20191008060000 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008061000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008061000 -0300" stop="20191008062500 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008062500 -0300" stop="20191008065900 -0300" channel="NHK World Premium">
+    <title lang="pt">Whiz-kids Tv You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008065900 -0300" stop="20191008070000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008070000 -0300" stop="20191008073000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008073000 -0300" stop="20191008075700 -0300" channel="NHK World Premium">
+    <title lang="pt">Lunch On!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008075700 -0300" stop="20191008084200 -0300" channel="NHK World Premium">
+    <title lang="pt">Song Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008084200 -0300" stop="20191008084500 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008084500 -0300" stop="20191008085000 -0300" channel="NHK World Premium">
+    <title lang="pt">Child-rearing Hints &amp; Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008085000 -0300" stop="20191008085700 -0300" channel="NHK World Premium">
+    <title lang="pt">Design Ah!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008085700 -0300" stop="20191008090000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008090000 -0300" stop="20191008100000 -0300" channel="NHK World Premium">
+    <title lang="pt">News Watch 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008100000 -0300" stop="20191008102500 -0300" channel="NHK World Premium">
+    <title lang="pt">Gentle Journeys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008102500 -0300" stop="20191008103000 -0300" channel="NHK World Premium">
+    <title lang="pt">Koh Kentetsu's Food Travelogue In Asia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008103000 -0300" stop="20191008112000 -0300" channel="NHK World Premium">
+    <title lang="pt">The Professionals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008112000 -0300" stop="20191008113500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008113500 -0300" stop="20191008121500 -0300" channel="NHK World Premium">
+    <title lang="pt">International News Report 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008121500 -0300" stop="20191008122000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008122000 -0300" stop="20191008130300 -0300" channel="NHK World Premium">
+    <title lang="pt">The Fountain of Ancient Wisdom</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008130300 -0300" stop="20191008130500 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008130500 -0300" stop="20191008133000 -0300" channel="NHK World Premium">
+    <title lang="pt">Gretel's Magical Oven</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008133000 -0300" stop="20191008140000 -0300" channel="NHK World Premium">
+    <title lang="pt">A Solo Life on Friday</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008140000 -0300" stop="20191008140500 -0300" channel="NHK World Premium">
+    <title lang="pt">Testimonies of The Great East Japan Earthquake</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008140500 -0300" stop="20191008141000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008141000 -0300" stop="20191008142500 -0300" channel="NHK World Premium">
+    <title lang="pt">Health for Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008142500 -0300" stop="20191008145000 -0300" channel="NHK World Premium">
+    <title lang="pt">Today's Menu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008145000 -0300" stop="20191008145500 -0300" channel="NHK World Premium">
+    <title lang="pt">Cooking for Beginners</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008145500 -0300" stop="20191008150000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008150000 -0300" stop="20191008151500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008151500 -0300" stop="20191008152500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Commentary</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008152500 -0300" stop="20191008153000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008153000 -0300" stop="20191008160000 -0300" channel="NHK World Premium">
+    <title lang="pt">Japan's Finest</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008160000 -0300" stop="20191008165500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008165500 -0300" stop="20191008170000 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008170000 -0300" stop="20191008172400 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008172400 -0300" stop="20191008173900 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008173900 -0300" stop="20191008174900 -0300" channel="NHK World Premium">
+    <title lang="pt">Chatty Jay's Sundry Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008174900 -0300" stop="20191008175900 -0300" channel="NHK World Premium">
+    <title lang="pt">Go! Go! Cook R'n</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008175900 -0300" stop="20191008180000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191008200000 -0300" channel="NHK World Premium">
+    <title lang="pt">News: Good Morning Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008200000 -0300" stop="20191008201500 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008201500 -0300" stop="20191008215500 -0300" channel="NHK World Premium">
+    <title lang="pt">Asaichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008215500 -0300" stop="20191008220000 -0300" channel="NHK World Premium">
+    <title lang="pt">Exercise For Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008220000 -0300" stop="20191008220500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008220500 -0300" stop="20191008225000 -0300" channel="NHK World Premium">
+    <title lang="pt">Song Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008225000 -0300" stop="20191008234000 -0300" channel="NHK World Premium">
+    <title lang="pt">Historical Anecdote</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008234000 -0300" stop="20191008234800 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun With Okinawa Dialects</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008234800 -0300" stop="20191008235800 -0300" channel="NHK World Premium">
+    <title lang="pt">Points at Issue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008235800 -0300" stop="20191009000000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009002000 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009002000 -0300" stop="20191009004500 -0300" channel="NHK World Premium">
+    <title lang="pt">Tomio Umezawa &amp; Koji Higashino's Eat Up Farmers Meal!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009004500 -0300" stop="20191009010000 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009010000 -0300" stop="20191009012500 -0300" channel="NHK World Premium">
+    <title lang="pt">Hobbies Sparkle Your Life!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009012500 -0300" stop="20191009015000 -0300" channel="NHK World Premium">
+    <title lang="pt">Haiku Poetry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009015000 -0300" stop="20191009020000 -0300" channel="NHK World Premium">
+    <title lang="pt">Practical English in Hospitality Scenes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009020000 -0300" stop="20191009022500 -0300" channel="NHK World Premium">
+    <title lang="pt">Learn Chinese on TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009022500 -0300" stop="20191009025500 -0300" channel="NHK World Premium">
+    <title lang="pt">Asia Insight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009025500 -0300" stop="20191009030000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Music Album</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009030000 -0300" stop="20191009031000 -0300" channel="NHK World Premium">
+    <title lang="pt">Rural Japan Satoyama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009031000 -0300" stop="20191009031500 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009031500 -0300" stop="20191009032000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009032000 -0300" stop="20191009034400 -0300" channel="NHK World Premium">
+    <title lang="pt">Round Table Talk on Childcare &amp; Education</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009034400 -0300" stop="20191009034900 -0300" channel="NHK World Premium">
+    <title lang="pt">Tips For Nursing Care</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009034900 -0300" stop="20191009035000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009035000 -0300" stop="20191009044500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009044500 -0300" stop="20191009045000 -0300" channel="NHK World Premium">
+    <title lang="pt">Pythagoraswitch Mini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009045000 -0300" stop="20191009050100 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009050100 -0300" stop="20191009051100 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun with Japanese</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009051100 -0300" stop="20191009052100 -0300" channel="NHK World Premium">
+    <title lang="pt">Let's Enjoy English With Orton</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009052100 -0300" stop="20191009053600 -0300" channel="NHK World Premium">
+    <title lang="pt">Peek-a-boo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009053600 -0300" stop="20191009060000 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009061000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009061000 -0300" stop="20191009062500 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009062500 -0300" stop="20191009065900 -0300" channel="NHK World Premium">
+    <title lang="pt">Whiz-kids Tv You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009065900 -0300" stop="20191009070000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009070000 -0300" stop="20191009073000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009073000 -0300" stop="20191009081500 -0300" channel="NHK World Premium">
+    <title lang="pt">Science for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009081500 -0300" stop="20191009084200 -0300" channel="NHK World Premium">
+    <title lang="pt">Sandwichman's Let Me Take A Bath</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009084200 -0300" stop="20191009084500 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009084500 -0300" stop="20191009085000 -0300" channel="NHK World Premium">
+    <title lang="pt">Child-rearing Hints &amp; Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009085000 -0300" stop="20191009085700 -0300" channel="NHK World Premium">
+    <title lang="pt">Design Ah!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009085700 -0300" stop="20191009090000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009090000 -0300" stop="20191009100000 -0300" channel="NHK World Premium">
+    <title lang="pt">News Watch 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009100000 -0300" stop="20191009103000 -0300" channel="NHK World Premium">
+    <title lang="pt">Today's Close-up Plus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009103000 -0300" stop="20191009112000 -0300" channel="NHK World Premium">
+    <title lang="pt">Historical Anecdote</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009112000 -0300" stop="20191009113500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009113500 -0300" stop="20191009121500 -0300" channel="NHK World Premium">
+    <title lang="pt">International News Report 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009121500 -0300" stop="20191009122000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009122000 -0300" stop="20191009130500 -0300" channel="NHK World Premium">
+    <title lang="pt">Naoki Matayoshi's Heureka!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009130500 -0300" stop="20191009133000 -0300" channel="NHK World Premium">
+    <title lang="pt">Classic Books</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009133000 -0300" stop="20191009140000 -0300" channel="NHK World Premium">
+    <title lang="pt">Be Inquisitive!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009140000 -0300" stop="20191009140500 -0300" channel="NHK World Premium">
+    <title lang="pt">Testimonies of The Great East Japan Earthquake</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009140500 -0300" stop="20191009141000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009141000 -0300" stop="20191009142500 -0300" channel="NHK World Premium">
+    <title lang="pt">Health for Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009142500 -0300" stop="20191009145000 -0300" channel="NHK World Premium">
+    <title lang="pt">Today's Menu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009145000 -0300" stop="20191009145500 -0300" channel="NHK World Premium">
+    <title lang="pt">Cooking for Beginners</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009145500 -0300" stop="20191009150000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009150000 -0300" stop="20191009151500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009151500 -0300" stop="20191009152500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Commentary</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009152500 -0300" stop="20191009153000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009153000 -0300" stop="20191009160000 -0300" channel="NHK World Premium">
+    <title lang="pt">Hurray To The Angler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009160000 -0300" stop="20191009165500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009165500 -0300" stop="20191009170000 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009170000 -0300" stop="20191009172400 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009172400 -0300" stop="20191009173900 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009173900 -0300" stop="20191009174900 -0300" channel="NHK World Premium">
+    <title lang="pt">Chatty Jay's Sundry Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009174900 -0300" stop="20191009175900 -0300" channel="NHK World Premium">
+    <title lang="pt">Go! Go! Cook R'n</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009175900 -0300" stop="20191009180000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191009200000 -0300" channel="NHK World Premium">
+    <title lang="pt">News: Good Morning Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009200000 -0300" stop="20191009201500 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009201500 -0300" stop="20191009215500 -0300" channel="NHK World Premium">
+    <title lang="pt">Asaichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009215500 -0300" stop="20191009220000 -0300" channel="NHK World Premium">
+    <title lang="pt">Exercise For Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009220000 -0300" stop="20191009220500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009220500 -0300" stop="20191009225000 -0300" channel="NHK World Premium">
+    <title lang="pt">Science for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009225000 -0300" stop="20191009231700 -0300" channel="NHK World Premium">
+    <title lang="pt">Sandwichman's Let Me Take A Bath</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009231700 -0300" stop="20191009234800 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Entertainment Encyclopedia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009234800 -0300" stop="20191009235800 -0300" channel="NHK World Premium">
+    <title lang="pt">Points at Issue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009235800 -0300" stop="20191010000000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010002000 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010002000 -0300" stop="20191010004500 -0300" channel="NHK World Premium">
+    <title lang="pt">Lunch On!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010004500 -0300" stop="20191010010000 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010010000 -0300" stop="20191010012500 -0300" channel="NHK World Premium">
+    <title lang="pt">Hobbies Sparkle Your Life!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010012500 -0300" stop="20191010015000 -0300" channel="NHK World Premium">
+    <title lang="pt">Vegetable Gardening</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010015000 -0300" stop="20191010020000 -0300" channel="NHK World Premium">
+    <title lang="pt">Practical English in Hospitality Scenes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010020000 -0300" stop="20191010022500 -0300" channel="NHK World Premium">
+    <title lang="pt">Learn Spanish Through Traveling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010022500 -0300" stop="20191010025500 -0300" channel="NHK World Premium">
+    <title lang="pt">Journeys In Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010025500 -0300" stop="20191010030000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Music Album</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010030000 -0300" stop="20191010031000 -0300" channel="NHK World Premium">
+    <title lang="pt">Rural Japan Satoyama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010031000 -0300" stop="20191010031500 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010031500 -0300" stop="20191010032000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010032000 -0300" stop="20191010034800 -0300" channel="NHK World Premium">
+    <title lang="pt">Core Kyoto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010034800 -0300" stop="20191010035000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010035000 -0300" stop="20191010044500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010044500 -0300" stop="20191010045000 -0300" channel="NHK World Premium">
+    <title lang="pt">Pythagoraswitch Mini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010045000 -0300" stop="20191010050100 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010050100 -0300" stop="20191010051100 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun with Japanese</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010051100 -0300" stop="20191010052100 -0300" channel="NHK World Premium">
+    <title lang="pt">Let's Enjoy English With Orton</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010052100 -0300" stop="20191010053600 -0300" channel="NHK World Premium">
+    <title lang="pt">Peek-a-boo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010053600 -0300" stop="20191010060000 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010061000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010061000 -0300" stop="20191010062500 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010062500 -0300" stop="20191010065900 -0300" channel="NHK World Premium">
+    <title lang="pt">Whiz-kids Tv You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010065900 -0300" stop="20191010070000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010070000 -0300" stop="20191010073000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010073000 -0300" stop="20191010075700 -0300" channel="NHK World Premium">
+    <title lang="pt">Tokoro-san, It's An Incident!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010075700 -0300" stop="20191010084200 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Names Trivia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010084200 -0300" stop="20191010084500 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010084500 -0300" stop="20191010085000 -0300" channel="NHK World Premium">
+    <title lang="pt">Child-rearing Hints &amp; Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010085000 -0300" stop="20191010085700 -0300" channel="NHK World Premium">
+    <title lang="pt">Design Ah!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010085700 -0300" stop="20191010090000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010090000 -0300" stop="20191010100000 -0300" channel="NHK World Premium">
+    <title lang="pt">News Watch 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010100000 -0300" stop="20191010103000 -0300" channel="NHK World Premium">
+    <title lang="pt">Today's Close-up Plus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010103000 -0300" stop="20191010112000 -0300" channel="NHK World Premium">
+    <title lang="pt">This World is Filled With Wants</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010112000 -0300" stop="20191010113500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010113500 -0300" stop="20191010121500 -0300" channel="NHK World Premium">
+    <title lang="pt">International News Report 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010121500 -0300" stop="20191010122000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010122000 -0300" stop="20191010132000 -0300" channel="NHK World Premium">
+    <title lang="pt">Medical Checkup of Great Figures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010132000 -0300" stop="20191010133000 -0300" channel="NHK World Premium">
+    <title lang="pt">Meet the Legend</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010133000 -0300" stop="20191010140000 -0300" channel="NHK World Premium">
+    <title lang="pt">10 Kilometer Run At Travel Destinations</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010140000 -0300" stop="20191010140500 -0300" channel="NHK World Premium">
+    <title lang="pt">Testimonies of The Great East Japan Earthquake</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010140500 -0300" stop="20191010141000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010141000 -0300" stop="20191010142500 -0300" channel="NHK World Premium">
+    <title lang="pt">Health for Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010142500 -0300" stop="20191010145500 -0300" channel="NHK World Premium">
+    <title lang="pt">Yes, We Are Repairer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010145500 -0300" stop="20191010150000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010150000 -0300" stop="20191010151500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010151500 -0300" stop="20191010152500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Commentary</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010152500 -0300" stop="20191010153000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010153000 -0300" stop="20191010160000 -0300" channel="NHK World Premium">
+    <title lang="pt">Leisurely Railway Journey Across Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010160000 -0300" stop="20191010165500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010165500 -0300" stop="20191010170000 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010170000 -0300" stop="20191010172400 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010172400 -0300" stop="20191010173900 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010173900 -0300" stop="20191010174900 -0300" channel="NHK World Premium">
+    <title lang="pt">Chatty Jay's Sundry Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010174900 -0300" stop="20191010175900 -0300" channel="NHK World Premium">
+    <title lang="pt">Go! Go! Cook R'n</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010175900 -0300" stop="20191010180000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191010200000 -0300" channel="NHK World Premium">
+    <title lang="pt">News: Good Morning Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010200000 -0300" stop="20191010201500 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010201500 -0300" stop="20191010215500 -0300" channel="NHK World Premium">
+    <title lang="pt">Asaichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010215500 -0300" stop="20191010220000 -0300" channel="NHK World Premium">
+    <title lang="pt">Exercise For Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010220000 -0300" stop="20191010220500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010220500 -0300" stop="20191010225000 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Names Trivia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010225000 -0300" stop="20191010234000 -0300" channel="NHK World Premium">
+    <title lang="pt">The Professionals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010234000 -0300" stop="20191010234800 -0300" channel="NHK World Premium">
+    <title lang="pt">See, Learn, Explore a Deep Travelogue In Tohoku</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010234800 -0300" stop="20191010235800 -0300" channel="NHK World Premium">
+    <title lang="pt">Odomo TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010235800 -0300" stop="20191011000000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011002000 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011002000 -0300" stop="20191011003300 -0300" channel="NHK World Premium">
+    <title lang="pt">Ryuta Kijima's Are You Hungry?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011003300 -0300" stop="20191011003800 -0300" channel="NHK World Premium">
+    <title lang="pt">365 Days Of Home Cooking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011003800 -0300" stop="20191011004500 -0300" channel="NHK World Premium">
+    <title lang="pt">Kyoto's Hidamariya Garden Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011004500 -0300" stop="20191011010000 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011010000 -0300" stop="20191011012500 -0300" channel="NHK World Premium">
+    <title lang="pt">Let's Handicraft</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011012500 -0300" stop="20191011015000 -0300" channel="NHK World Premium">
+    <title lang="pt">My Gardening</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011015000 -0300" stop="20191011020000 -0300" channel="NHK World Premium">
+    <title lang="pt">Practical English in Hospitality Scenes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011020000 -0300" stop="20191011022500 -0300" channel="NHK World Premium">
+    <title lang="pt">Learn French Through Traveling</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011022500 -0300" stop="20191011025500 -0300" channel="NHK World Premium">
+    <title lang="pt">Trails To Oishii Tokyo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011025500 -0300" stop="20191011030000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Music Album</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011030000 -0300" stop="20191011031000 -0300" channel="NHK World Premium">
+    <title lang="pt">Rural Japan Satoyama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011031000 -0300" stop="20191011031500 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011031500 -0300" stop="20191011032000 -0300" channel="NHK World Premium">
+    <title lang="pt">Everyday Tips</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011032000 -0300" stop="20191011034500 -0300" channel="NHK World Premium">
+    <title lang="pt">#teenagers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011034500 -0300" stop="20191011034700 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011034700 -0300" stop="20191011035000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011035000 -0300" stop="20191011044500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011044500 -0300" stop="20191011045000 -0300" channel="NHK World Premium">
+    <title lang="pt">Pythagoraswitch Mini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011045000 -0300" stop="20191011050100 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011050100 -0300" stop="20191011051100 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun with Japanese</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011051100 -0300" stop="20191011052100 -0300" channel="NHK World Premium">
+    <title lang="pt">Let's Enjoy English With Orton</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011052100 -0300" stop="20191011053600 -0300" channel="NHK World Premium">
+    <title lang="pt">Peek-a-boo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011053600 -0300" stop="20191011060000 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011061000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011061000 -0300" stop="20191011062500 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011062500 -0300" stop="20191011065900 -0300" channel="NHK World Premium">
+    <title lang="pt">Whiz-kids Tv You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011065900 -0300" stop="20191011070000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011070000 -0300" stop="20191011073000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011073000 -0300" stop="20191011075700 -0300" channel="NHK World Premium">
+    <title lang="pt">Tokyo Local Information Netadori</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011075700 -0300" stop="20191011084200 -0300" channel="NHK World Premium">
+    <title lang="pt">Trivia Quizzes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011084200 -0300" stop="20191011084500 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011084500 -0300" stop="20191011085000 -0300" channel="NHK World Premium">
+    <title lang="pt">Girls Craft</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011085000 -0300" stop="20191011085700 -0300" channel="NHK World Premium">
+    <title lang="pt">Design Ah!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011085700 -0300" stop="20191011090000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011090000 -0300" stop="20191011100000 -0300" channel="NHK World Premium">
+    <title lang="pt">News Watch 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011100000 -0300" stop="20191011104500 -0300" channel="NHK World Premium">
+    <title lang="pt">The Comedy of Life</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011104500 -0300" stop="20191011105000 -0300" channel="NHK World Premium">
+    <title lang="pt">Anipara</title>
+    <sub-title lang="pt">Animation and para Sports</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011105000 -0300" stop="20191011112000 -0300" channel="NHK World Premium">
+    <title lang="pt">Document 72 Hours</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011112000 -0300" stop="20191011113500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011113500 -0300" stop="20191011121500 -0300" channel="NHK World Premium">
+    <title lang="pt">International News Report 2019</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011121500 -0300" stop="20191011122000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011122000 -0300" stop="20191011132000 -0300" channel="NHK World Premium">
+    <title lang="pt">Medical Checkup of Great Figures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011132000 -0300" stop="20191011133000 -0300" channel="NHK World Premium">
+    <title lang="pt">Meet the Legend</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011133000 -0300" stop="20191011140000 -0300" channel="NHK World Premium">
+    <title lang="pt">10 Kilometer Run At Travel Destinations</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011140000 -0300" stop="20191011140500 -0300" channel="NHK World Premium">
+    <title lang="pt">Testimonies of The Great East Japan Earthquake</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011140500 -0300" stop="20191011141000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011141000 -0300" stop="20191011142500 -0300" channel="NHK World Premium">
+    <title lang="pt">Health for Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011142500 -0300" stop="20191011150000 -0300" channel="NHK World Premium">
+    <title lang="pt">Yes, We Are Repairer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011150000 -0300" stop="20191011151500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Today</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011151500 -0300" stop="20191011152500 -0300" channel="NHK World Premium">
+    <title lang="pt">News Commentary</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011152500 -0300" stop="20191011153000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011153000 -0300" stop="20191011160000 -0300" channel="NHK World Premium">
+    <title lang="pt">Leisurely Railway Journey Across Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011160000 -0300" stop="20191011165500 -0300" channel="NHK World Premium">
+    <title lang="pt">Afternoon Live</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011165500 -0300" stop="20191011170000 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011170000 -0300" stop="20191011172400 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011172400 -0300" stop="20191011173900 -0300" channel="NHK World Premium">
+    <title lang="pt">Kid's Discovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011173900 -0300" stop="20191011174900 -0300" channel="NHK World Premium">
+    <title lang="pt">Chatty Jay's Sundry Shop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011174900 -0300" stop="20191011175900 -0300" channel="NHK World Premium">
+    <title lang="pt">Go! Go! Cook R'n</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011175900 -0300" stop="20191011180000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191011200000 -0300" channel="NHK World Premium">
+    <title lang="pt">News: Good Morning Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011200000 -0300" stop="20191011201500 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011201500 -0300" stop="20191011215500 -0300" channel="NHK World Premium">
+    <title lang="pt">Asaichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011215500 -0300" stop="20191011220000 -0300" channel="NHK World Premium">
+    <title lang="pt">Exercise For Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011220000 -0300" stop="20191011220500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011220500 -0300" stop="20191011225300 -0300" channel="NHK World Premium">
+    <title lang="pt">TV For Everyone: NHK Cup Big Failure Championship</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011225300 -0300" stop="20191011234300 -0300" channel="NHK World Premium">
+    <title lang="pt">The Professionals</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011234300 -0300" stop="20191011234800 -0300" channel="NHK World Premium">
+    <title lang="pt">See, Learn, Explore a Deep Travelogue In Tohoku</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011234800 -0300" stop="20191011235800 -0300" channel="NHK World Premium">
+    <title lang="pt">Odomo TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011235800 -0300" stop="20191012000000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012001500 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012001500 -0300" stop="20191012004000 -0300" channel="NHK World Premium">
+    <title lang="pt">Law and Laughter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012004000 -0300" stop="20191012004500 -0300" channel="NHK World Premium">
+    <title lang="pt">Ukiyoe Edo-life</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012004500 -0300" stop="20191012010000 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012010000 -0300" stop="20191012010500 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012010500 -0300" stop="20191012015000 -0300" channel="NHK World Premium">
+    <title lang="pt">Taiga Drama Idaten</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012015000 -0300" stop="20191012040000 -0300" channel="NHK World Premium">
+    <title lang="pt">Japan Women's Open Golf Champ</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012040000 -0300" stop="20191012041000 -0300" channel="NHK World Premium">
+    <title lang="pt">Rural Japan Satoyama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012041000 -0300" stop="20191012050000 -0300" channel="NHK World Premium">
+    <title lang="pt">You're A Genius! Ken Watanabe in Comedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012050000 -0300" stop="20191012053000 -0300" channel="NHK World Premium">
+    <title lang="pt">Bread Travelogue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012053000 -0300" stop="20191012060000 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012060500 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060500 -0300" stop="20191012062000 -0300" channel="NHK World Premium">
+    <title lang="pt">Pythagoraswitch</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012062000 -0300" stop="20191012063000 -0300" channel="NHK World Premium">
+    <title lang="pt">Basic English: Level 0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012063000 -0300" stop="20191012070000 -0300" channel="NHK World Premium">
+    <title lang="pt">Peek-a-boo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012070000 -0300" stop="20191012073000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News 7</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012073000 -0300" stop="20191012081500 -0300" channel="NHK World Premium">
+    <title lang="pt">Strolling with Tamori</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012081500 -0300" stop="20191012084500 -0300" channel="NHK World Premium">
+    <title lang="pt">The Visualization Entertainment</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012084500 -0300" stop="20191012090000 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012090000 -0300" stop="20191012094900 -0300" channel="NHK World Premium">
+    <title lang="pt">Tokyo Athletes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012094900 -0300" stop="20191012095000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012095000 -0300" stop="20191012100000 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012100000 -0300" stop="20191012101000 -0300" channel="NHK World Premium">
+    <title lang="pt">Odomo TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012101000 -0300" stop="20191012104500 -0300" channel="NHK World Premium">
+    <title lang="pt">Producer Teppei Arita's Omotenasu Comedy Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012104500 -0300" stop="20191012105800 -0300" channel="NHK World Premium">
+    <title lang="pt">Ryuta Kijima's Are You Hungry?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012105800 -0300" stop="20191012110000 -0300" channel="NHK World Premium">
+    <title lang="pt">Mini Program</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012110000 -0300" stop="20191012113000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs of Our Generation</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012113000 -0300" stop="20191012120000 -0300" channel="NHK World Premium">
+    <title lang="pt">Uta-tube</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012120500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120500 -0300" stop="20191012123500 -0300" channel="NHK World Premium">
+    <title lang="pt">Shibuya Note</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012123500 -0300" stop="20191012132500 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Convenience Store Aiming At Asia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012132500 -0300" stop="20191012133000 -0300" channel="NHK World Premium">
+    <title lang="pt">Fun With Okinawa Dialects</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012133000 -0300" stop="20191012133500 -0300" channel="NHK World Premium">
+    <title lang="pt">See, Learn, Explore a Deep Travelogue In Tohoku</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012133500 -0300" stop="20191012135500 -0300" channel="NHK World Premium">
+    <title lang="pt">Saturday Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012135500 -0300" stop="20191012142500 -0300" channel="NHK World Premium">
+    <title lang="pt">Tomio Umezawa &amp; Koji Higashino's Eat Up Farmers Meal!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012142500 -0300" stop="20191012143500 -0300" channel="NHK World Premium">
+    <title lang="pt">NHK News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012143500 -0300" stop="20191012150500 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Narrative Art</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012150500 -0300" stop="20191012160000 -0300" channel="NHK World Premium">
+    <title lang="pt">Japanese Traditional Performing Arts</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012160000 -0300" stop="20191012164500 -0300" channel="NHK World Premium">
+    <title lang="pt">Recipe For Fulfilling Second Life</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012164500 -0300" stop="20191012165500 -0300" channel="NHK World Premium">
+    <title lang="pt">365 Days Of Home Cooking</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012165500 -0300" stop="20191012170000 -0300" channel="NHK World Premium">
+    <title lang="pt">Asobeaver Etv Playground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012170000 -0300" stop="20191012172400 -0300" channel="NHK World Premium">
+    <title lang="pt">With Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012172400 -0300" stop="20191012172900 -0300" channel="NHK World Premium">
+    <title lang="pt">Nyan-chu! Space! Broadcasting! Mini</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012172900 -0300" stop="20191012173900 -0300" channel="NHK World Premium">
+    <title lang="pt">Mimicries Natural Science For Kids</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012173900 -0300" stop="20191012175400 -0300" channel="NHK World Premium">
+    <title lang="pt">Design Ah!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012175400 -0300" stop="20191012175900 -0300" channel="NHK World Premium">
+    <title lang="pt">Drama Serial Scarlet</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012175900 -0300" stop="20191012180000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191012181000 -0300" channel="NHK World Premium">
+    <title lang="pt">News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012181000 -0300" stop="20191012184500 -0300" channel="NHK World Premium">
+    <title lang="pt">Hometown Stories</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012184500 -0300" stop="20191012185000 -0300" channel="NHK World Premium">
+    <title lang="pt">Flowers Will Bloom in Tohoku</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012185000 -0300" stop="20191012190000 -0300" channel="NHK World Premium">
+    <title lang="pt">TV Exercise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012190000 -0300" stop="20191012194500 -0300" channel="NHK World Premium">
+    <title lang="pt">News: Good Morning Japan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012194500 -0300" stop="20191012195900 -0300" channel="NHK World Premium">
+    <title lang="pt">Natural Grandeur of the East</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012195900 -0300" stop="20191012200000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012200000 -0300" stop="20191012202500 -0300" channel="NHK World Premium">
+    <title lang="pt">Gentle Journeys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012202500 -0300" stop="20191012205700 -0300" channel="NHK World Premium">
+    <title lang="pt">Lunch On!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012205700 -0300" stop="20191012210000 -0300" channel="NHK World Premium">
+    <title lang="pt">Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012210000 -0300" stop="20191012220000 -0300" channel="NHK World Premium">
+    <title lang="pt">Sunday Debate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012220000 -0300" stop="20191012220500 -0300" channel="NHK World Premium">
+    <title lang="pt">News &amp; Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012220500 -0300" stop="20191012225500 -0300" channel="NHK World Premium">
+    <title lang="pt">March to Recovery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012225500 -0300" stop="20191012230000 -0300" channel="NHK World Premium">
+    <title lang="pt">Songs for Everyone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012230000 -0300" stop="20191012235900 -0300" channel="NHK World Premium">
+    <title lang="pt">Pop Music Club</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012235900 -0300" stop="20191013000000 -0300" channel="NHK World Premium">
+    <title lang="pt">World Weather</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008010000 -0300" stop="20191008020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008020000 -0300" stop="20191008030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008030000 -0300" stop="20191008040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008040000 -0300" stop="20191008050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008050000 -0300" stop="20191008060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008070000 -0300" stop="20191008080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008080000 -0300" stop="20191008090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008090000 -0300" stop="20191008094500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008094500 -0300" stop="20191008100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Azulão EP. 19</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008100000 -0300" stop="20191008103000 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Xavante Ep. 08</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008103000 -0300" stop="20191008104500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Sempre Estarei Contigo Ep. 58</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008104500 -0300" stop="20191008110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Leão Ep. 06</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008110000 -0300" stop="20191008111500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008111500 -0300" stop="20191008121500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008121500 -0300" stop="20191008131500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008131500 -0300" stop="20191008141500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008141500 -0300" stop="20191008151500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008151500 -0300" stop="20191008161500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008161500 -0300" stop="20191008171500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008171500 -0300" stop="20191008181500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008181500 -0300" stop="20191008183000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Bento TV Ep. 17</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008183000 -0300" stop="20191008185500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008185500 -0300" stop="20191008212500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Operário x Paraná</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008212500 -0300" stop="20191008233000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Ponte Preta x Londrina</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008233000 -0300" stop="20191009001500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009001500 -0300" stop="20191009011500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009011500 -0300" stop="20191009021500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009021500 -0300" stop="20191009031500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009031500 -0300" stop="20191009041500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009041500 -0300" stop="20191009051500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009051500 -0300" stop="20191009061500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009061500 -0300" stop="20191009071500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009071500 -0300" stop="20191009081500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009081500 -0300" stop="20191009091500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009091500 -0300" stop="20191009101500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009101500 -0300" stop="20191009111500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009111500 -0300" stop="20191009121500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009121500 -0300" stop="20191009131500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009131500 -0300" stop="20191009141500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009141500 -0300" stop="20191009151500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009151500 -0300" stop="20191009161500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009161500 -0300" stop="20191009171500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009171500 -0300" stop="20191009181500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009181500 -0300" stop="20191009191500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009191500 -0300" stop="20191009201500 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009201500 -0300" stop="20191009203000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009203000 -0300" stop="20191009211000 -0300" channel="Premiere Clubes">
+    <title lang="pt">FPF TV Ep. 32</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009211000 -0300" stop="20191009233000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Santos x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009233000 -0300" stop="20191010003000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010003000 -0300" stop="20191010013000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010013000 -0300" stop="20191010023000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010023000 -0300" stop="20191010033000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010033000 -0300" stop="20191010043000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010043000 -0300" stop="20191010053000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fortaleza x Chapecoense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010053000 -0300" stop="20191010063000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010063000 -0300" stop="20191010073000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Goiás</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010073000 -0300" stop="20191010083000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010083000 -0300" stop="20191010093000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010093000 -0300" stop="20191010103000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010103000 -0300" stop="20191010113000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010113000 -0300" stop="20191010123000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010123000 -0300" stop="20191010133000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Goiás</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010133000 -0300" stop="20191010143000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010143000 -0300" stop="20191010153000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010153000 -0300" stop="20191010163000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010163000 -0300" stop="20191010173000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010173000 -0300" stop="20191010183000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010183000 -0300" stop="20191010194000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Goiás</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010194000 -0300" stop="20191010220000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Flamengo x Atlético MG</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010220000 -0300" stop="20191010230000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010230000 -0300" stop="20191011000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011010000 -0300" stop="20191011020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011020000 -0300" stop="20191011030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011030000 -0300" stop="20191011040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011040000 -0300" stop="20191011050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011050000 -0300" stop="20191011060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011070000 -0300" stop="20191011080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011080000 -0300" stop="20191011090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011090000 -0300" stop="20191011100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011100000 -0300" stop="20191011110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011110000 -0300" stop="20191011120000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011130000 -0300" stop="20191011140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011140000 -0300" stop="20191011150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011150000 -0300" stop="20191011160000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011160000 -0300" stop="20191011170000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011170000 -0300" stop="20191011180000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191011181500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011181500 -0300" stop="20191011185500 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Xavante Ep. 09</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011185500 -0300" stop="20191011212500 -0300" channel="Premiere Clubes">
+    <title lang="pt">Brasil de Pelotas x Botafogo SP</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011212500 -0300" stop="20191011233000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Guarani x CRB AL</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011233000 -0300" stop="20191012003000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012003000 -0300" stop="20191012013000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012013000 -0300" stop="20191012023000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012023000 -0300" stop="20191012033000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012033000 -0300" stop="20191012043000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012043000 -0300" stop="20191012053000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012053000 -0300" stop="20191012063000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012063000 -0300" stop="20191012073000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012073000 -0300" stop="20191012083000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012083000 -0300" stop="20191012093000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Ceará</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012093000 -0300" stop="20191012103000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012103000 -0300" stop="20191012113000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSA AL x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012113000 -0300" stop="20191012123000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012123000 -0300" stop="20191012133000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012133000 -0300" stop="20191012143000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012143000 -0300" stop="20191012153000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012153000 -0300" stop="20191012154500 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Azulão EP. 19</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012154500 -0300" stop="20191012161000 -0300" channel="Premiere Clubes">
+    <title lang="pt">TV Goiás EP. 156</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012161000 -0300" stop="20191012183000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Goiás x CSA AL</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012183000 -0300" stop="20191012193000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012193000 -0300" stop="20191012200000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012200000 -0300" stop="20191012204000 -0300" channel="Premiere Clubes">
+    <title lang="pt">FPF TV Ep. 32</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012204000 -0300" stop="20191012230000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Palmeiras x Botafogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012230000 -0300" stop="20191013000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Bahia</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008060000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008120000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008180000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191009000000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009060000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009120000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009180000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191010000000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010060000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010120000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010180000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191011000000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011060000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011120000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011180000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191012000000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012060000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012120000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012180000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191013000000 -0300" channel="Premiere 2">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008060000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008120000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008180000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191009000000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009060000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009120000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009180000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191010000000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010060000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010120000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010180000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191011000000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011060000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011120000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011180000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191012000000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012060000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012120000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012180000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191013000000 -0300" channel="Premiere 3">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008060000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008120000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008180000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191009000000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009060000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009120000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009180000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191010000000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010060000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010120000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010180000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191011000000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011060000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011120000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011180000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191012000000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012060000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012120000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012180000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191013000000 -0300" channel="Premiere 4">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008060000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008120000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008180000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191009000000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009060000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009120000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009180000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191010000000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010060000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010120000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010180000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191011000000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011060000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011120000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011180000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191012000000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012060000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012120000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012180000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191013000000 -0300" channel="Premiere 5">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008000000 -0300" stop="20191008060000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008060000 -0300" stop="20191008120000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008120000 -0300" stop="20191008180000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191008180000 -0300" stop="20191009000000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009000000 -0300" stop="20191009060000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009060000 -0300" stop="20191009120000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009120000 -0300" stop="20191009180000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191009180000 -0300" stop="20191010000000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010000000 -0300" stop="20191010060000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010060000 -0300" stop="20191010120000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010120000 -0300" stop="20191010180000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191010180000 -0300" stop="20191011000000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011000000 -0300" stop="20191011060000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011060000 -0300" stop="20191011120000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011120000 -0300" stop="20191011180000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191011180000 -0300" stop="20191012000000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012000000 -0300" stop="20191012060000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012060000 -0300" stop="20191012120000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012120000 -0300" stop="20191012180000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191012180000 -0300" stop="20191013000000 -0300" channel="Premiere 6">
+    <title lang="pt">Assine o Premiere e tenha a maior cobertura do Brasileirão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
